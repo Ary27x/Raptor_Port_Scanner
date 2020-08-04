@@ -1,0 +1,1 @@
+This is a pretty basic port scanner, made this is python about 4 months before this commit (16/05/2020).
